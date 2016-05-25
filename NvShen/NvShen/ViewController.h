@@ -11,5 +11,6 @@
 @interface ViewController : UIViewController
 
 @property(nonatomic,copy)NSString *str;
+@property(nonatomic,copy)NSString *str1;
 @end
 
